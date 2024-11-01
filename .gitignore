@@ -1,0 +1,5 @@
+# Ignore environment files
+.env
+kaggle.json
+.venv
+housing-price-practice.py
