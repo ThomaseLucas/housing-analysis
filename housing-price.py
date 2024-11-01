@@ -1,8 +1,6 @@
 import pandas as pd
 import numpy
 import matplotlib.pyplot as plt
-import os
-import dotenv
 import customtkinter as tk
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 
